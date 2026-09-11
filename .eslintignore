@@ -1,0 +1,6 @@
+dist
+node_modules
+public
+*.test.js
+*.test.jsx
+src/test
